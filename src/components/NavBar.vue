@@ -60,6 +60,9 @@ export default {
   margin-right: 50px;
   align-content: space-between;
 }
+a {
+  text-decoration: none;
+}
 .navbar-price {
   margin-left: 5px;
 }
